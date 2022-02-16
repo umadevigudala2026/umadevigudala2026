@@ -1,0 +1,14 @@
+a=int(input('enter a number:')) 
+b=int(input('enter a number:')) 
+Print(a+b)
+Print(a-b)
+Print(a*b)
+
+
+
+O/p
+enter a number:3
+enter a number:5
+8
+-2
+15
